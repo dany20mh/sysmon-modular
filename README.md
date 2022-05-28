@@ -79,3 +79,5 @@ Run with administrator rights
 Run with administrator rights
 
     sysmon.exe -c sysmonconfig.xml
+
+Note.
